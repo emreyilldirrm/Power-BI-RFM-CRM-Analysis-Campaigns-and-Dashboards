@@ -1,18 +1,18 @@
-# RFM and CRM Analysis Results
+# RFM ve CRM Analizi
 
-**Dataset**: The analysis conducted using the `online_retail_2010_2011` database examines customer behavior through RFM (Recency, Frequency, Monetary) and CRM (Customer Relationship Management) metrics.
+**Veri Seti**: `online_retail_2010_2011` veritabanı kullanılarak yapılan analizde müşteri davranışları RFM (Recency, Frequency, Monetary) ve CRM (Müşteri İlişkileri Yönetimi) metrikleri aracılığıyla incelenmektedir..
 
-## Analysis Process
+## Analiz Süreci
 
 1. **Monetary and Recency Values**: 
-   - Analyses have been performed based on customers' spending amounts (Monetary) and their last purchase dates (Recency), with the results visualized through graphs.
+   - Müşterilerin harcama tutarları (Parasal) ve son satın alma tarihleri ​​(Son Tarih) baz alınarak analizler yapılmış olup, sonuçlar grafiklerle görselleştirilmiştir.
    
 2. **Segmentation**: 
-   - Customer IDs of those who made purchases within the last 10 days have been identified and segmented accordingly.
+   - Son 10 gün içerisinde alışveriş yapanların müşteri ID'leri tespit edilerek segmentasyona tabi tutuldu.
    
-3. **Average Duration Calculation**: 
-   - The average last purchase duration for each segment has been calculated to gain deeper insights into customer purchasing habits.
+3. **Ortalama Süre Hesaplamasın**: 
+   - Müşteri satın alma alışkanlıkları hakkında daha derinlemesine bilgi edinmek için her segment için ortalama son satın alma süresi hesaplandı.
 
-## Campaign Development
+## Kampanya Geliştirme
 
-Based on the obtained data, customized campaigns have been developed targeting the identified segments. The aim of these campaigns is to enhance customer loyalty and stimulate sales.
+Elde edilen verilerden yola çıkılarak belirlenen segmentlere yönelik özelleştirilmiş kampanyalar geliştirilmiştir. Bu kampanyaların amacı müşteri sadakatini artırmak ve satışları canlandırmaktır.
